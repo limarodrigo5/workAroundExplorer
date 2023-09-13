@@ -1,11 +1,5 @@
 # Work Around Explorer 🚀
 
-## Índice 📚
-
-- [Visão Geral](#visão-geral)
-- [Como Usar](#como-usar)
-- [Conteúdos Abordados](#conteúdos-abordados)
-
 ## Visão Geral 👁️
 
 O "Work Around Explorer" é uma ferramenta poderosa para web developers. Este projeto foi desenvolvido com o objetivo de tornar a exploração de código mais eficiente e facilitar o trabalho diário dos desenvolvedores. Ele permite explorar informações salariais com base em cargos, empresas e setores.
